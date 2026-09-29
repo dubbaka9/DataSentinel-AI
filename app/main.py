@@ -21,5 +21,4 @@ def health():
         "status": "healthy"
     }
 
-Commit message:
-feat: add initial FastAPI application
+
