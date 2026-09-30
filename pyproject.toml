@@ -1,0 +1,9 @@
+[project]
+name = "datasentinel-ai"
+version = "0.1.0"
+description = "Evidence-driven multi-agent data reliability and self-healing platform"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
